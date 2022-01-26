@@ -15,7 +15,7 @@ To use this generator:
 To be made soon:
 
 - a Lua script to copy-paste the password into DeSMuMe-emulated ROM)
-- the algorithm in C++ (maybe)
+- a simple PyQt5 GUI app using the python generator
 
 Algorithm sourced from: [https://syphist.com/pmd/explorers/wondermail.html](https://syphist.com/pmd/explorers/wondermail.html)
 
