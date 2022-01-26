@@ -1,4 +1,4 @@
-Generators for Wonder Mail in Pokemon Mystery Dungeon: Explorers of Sky. Currently available:
+Generators for Wonder Mail S passwords in Pokemon Mystery Dungeon: Explorers of Sky. Currently available:
 
 - Python (simple script, text output)
 - HTML/JavaScript (webpage)
