@@ -3,7 +3,12 @@ Generators for Wonder Mail S passwords in Pokemon Mystery Dungeon: Explorers of 
 - Python (simple script, text output)
 - HTML/JavaScript (webpage)
 
+To use this generator:
+- Run one of the programs here to produce a password.
+- In the in-game menu, go to Wonder Mail S > Receive Wonder Mail S > Password:
 ![EnterPassword.png](EnterPassword.png)
+- Type the password in and press END - if entered correctly it will be added:
+![ReceivedWM.png](ReceivedWM.png)
 
 To be made soon:
 
