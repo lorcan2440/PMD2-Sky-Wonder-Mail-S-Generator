@@ -7,7 +7,7 @@ Some compatibility issues between versions here, but it does work!
 - Copy a Wonder Mail S password to your clipboard (Ctrl + C)
 - Run this Lua script from Desmume
 - Go to the in-game screen where you enter a Wonder Mail S password
-- Press Ctrl + V while the password entry is empty and the cursor is in the first position
+- Press Ctrl + V while the password entry is empty and the cursor is in the first position (click the screen after loading the script to ensure you are in the Desmume window)
 - The password should fill itself in from the clipboard - just click END to verify the WM
 - Don't click the touchscreen while the password is filling.
 
