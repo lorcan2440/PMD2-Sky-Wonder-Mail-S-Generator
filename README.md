@@ -1,8 +1,8 @@
 Generators for Wonder Mail in Pokemon Mystery Dungeon: Explorers of Sky. Currently the bare minimum for a functioning generator in HTML/JS. To be made soon:
 
-- Python
+- Python (simple script + with Qt GUI)
 - C++
-- Lua
+- Lua (for use with DeSmuME Emulator)
 
 Wonder mail generator: [https://syphist.com/pmd/explorers/wondermail.html](https://syphist.com/pmd/explorers/wondermail.html)
 
