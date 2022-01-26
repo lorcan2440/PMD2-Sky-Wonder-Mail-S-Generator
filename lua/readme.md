@@ -1,4 +1,4 @@
-## Lua - Copy Wonder Mail S into Desmume-emulated ROM's password field
+## Lua - still being made
 
 A lot of compatibility issues between versions here, but it can work.
 
