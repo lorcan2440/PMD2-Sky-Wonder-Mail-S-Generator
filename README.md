@@ -14,8 +14,8 @@ To use this generator:
 
 To be made soon:
 
-- C++
-- Lua (to copy-paste the password into DeSMuMe-emulated ROM)
+- a Lua script to copy-paste the password into DeSMuMe-emulated ROM)
+- the algorithm in C++ (maybe)
 
 Algorithm sourced from: [https://syphist.com/pmd/explorers/wondermail.html](https://syphist.com/pmd/explorers/wondermail.html)
 
