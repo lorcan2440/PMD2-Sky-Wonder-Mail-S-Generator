@@ -34,3 +34,7 @@ This is a tool for quickly inputting Wonder Mail S passwords into the game. Some
    If you want to move your lua51.dll file, you can instead add its directory
    to the System Environment Variables (Path).
    https://sourceforge.net/p/desmume/bugs/1628/
+   
+### Notes:
+
+- This is not intended for TAS - it takes a few seconds to enter the code, which is limited by the touchscreen's sensitivity to fast taps. In theory the password could be entered instantly if the script directly edited the memory, but this is too complicated for me and isn't how this script works.
