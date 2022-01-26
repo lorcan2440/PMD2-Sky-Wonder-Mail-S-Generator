@@ -11,12 +11,6 @@ Requirements to use correctly:
    (found as "lua5.1.dll" in https://sourceforge.net/projects/luabinaries/files/5.1.5/Windows%20Libraries/Dynamic/lua-5.1.5_Win32_dll14_lib.zip/download)
 - clipboard.dll (this is a Windows 32-bit library, hence all the trouble in compatibility)
    (provided here, sourced from http://files.luaforge.net/releases/jaslatrix/clipboard/1.0.0/clipboard-1.0.0-Lua51.zip)
-   
-Useful:
-- Completed EoS game save (USA version). After loading the ROM, load this game save using File > Import Backup Memory > (choose this file) > Flash 4MBit.
-   (http://saves.wikidot.com/save:29)
-- EoS ROM -  (load using File > Open ROM > (choose this file)).
-   (found as "4273 - Pokemon Mystery Dungeon - Explorers of Sky (US)(XenoPhobia).nds" in https://www.emulatorgames.net/roms/nintendo-ds/pokemon-mystery-dungeon-explorers-of-sky-us/)
 
 Errors:
 
