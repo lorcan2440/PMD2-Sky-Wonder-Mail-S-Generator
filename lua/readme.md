@@ -12,7 +12,7 @@ This is a tool for quickly inputting Wonder Mail S passwords into the game. Some
 - Don't click the touchscreen while the password is filling.
 
 
-### Requirements to use correctly:
+### Requirements to work correctly:
 
 - Windows 10 (64-bit)
 - Desmume x86 (32-bit, not 64-bit!)
