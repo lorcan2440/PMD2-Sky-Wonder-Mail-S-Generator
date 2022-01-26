@@ -419,8 +419,8 @@ class WMSGen:
 
     def __init__(self, missionType='Rescue Client', missionSubType=None, dungeon='Beach Cave',
             floor=1, client='Bulbasaur', clientGender='Male', target='Bulbasaur',
-            targetGender='Male', targetItem=None, rewardType='Item + ??? (Random)',
-            rewardItem=None, isEuropean=False, advanced=False, flavorText=None, specialFloor=None, printLog=True):
+            targetGender='Male', targetItem='null', rewardType='Item + ??? (Random)',
+            rewardItem='null', isEuropean=False, advanced=False, flavorText=None, specialFloor=None, printLog=True):
 
         # set all user inputs and defaults
         self.missionType = missionType
@@ -587,15 +587,42 @@ class WMSGen:
             return False
 
 
-wm = WMSGen(
-    missionType='Rescue client',
-    dungeon='Waterfall Cave',
-    floor=4,
-    client='Squirtle',
-    clientGender='Male',
-    rewardType='Item + ??? (Random)',
-    rewardItem='Lockon Specs',
-    advanced=True,
-    printLog=False)
+if __name__ == '__main__':
 
-print(wm.wonderMailPassword)
+    IS_EUROPEAN = False
+    PRINT_LOG = False
+
+    print('--- Wonder Mail S Generator ---')
+    print('Press Enter to accept the e.g. value, otherwise type your answers... \n')
+
+    missionType = input('What type of mission is this? \t\t e.g. "Prospect with client" \n')
+    if not missionType: missionType = 'Prospect with client'
+
+    dungeon = input('Which dungeon? \t\t e.g. "Beach Cave" \n')
+    if not dungeon: dungeon = 'Beach Cave'
+
+    floor = input(f'Which floor of {dungeon}? \t\t e.g. "1" \n')
+    floor = int(floor) if floor else 1
+
+    client = input('Which Pokemon is the client? \t\t e.g. "Dragonite" \n')
+    if not client: client = 'Dragonite'
+
+    clientGender = input(f'What gender is the client {client}? \t\t e.g. "Male" \n')
+    if not clientGender: clientGender = 'Male'
+
+    targetItem = input(f'What is the target item? \t\t e.g. "Golden Seed" \n')
+    if not targetItem: targetItem = 'Golden Seed'
+
+    rewardType = input('What type of reward? \t\t e.g. "Item + ??? (Random)" \n')
+    if not rewardType: rewardType = 'Item + ??? (Random)'
+
+    rewardItem = input('What is the reward item? \t\t e.g. "Golden Seed" \n')
+    if not rewardItem: rewardItem = 'Golden Seed'
+
+    wm = WMSGen(missionType=missionType, dungeon=dungeon, floor=floor, client=client,
+                clientGender=clientGender, targetItem=targetItem, rewardType=rewardType,
+                rewardItem=rewardItem, isEuropean=IS_EUROPEAN, printLog=PRINT_LOG)
+
+    print('A valid Wonder Mail S Password is: \n')
+    print(wm.wonderMailPassword)
+    print('\n')
