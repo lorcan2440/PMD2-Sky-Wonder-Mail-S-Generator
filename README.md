@@ -3,6 +3,8 @@ Generators for Wonder Mail S passwords in Pokemon Mystery Dungeon: Explorers of 
 - Python (simple script, text output)
 - HTML/JavaScript (webpage)
 
+![EnterPassword.png](EnterPassword.png)
+
 To be made soon:
 
 - C++
