@@ -9,7 +9,7 @@ To use this generator:
 - In the in-game menu, go to Wonder Mail S > Receive Wonder Mail S > Password:
 
 ![EnterPassword.png](EnterPassword.png)
-- Type the password in and press END - if entered correctly it will be added:
+- Type the password in (or use the Lua script to paste it in) and press END - if entered correctly it will be added:
 
 ![ReceivedWM.png](ReceivedWM.png)
 
