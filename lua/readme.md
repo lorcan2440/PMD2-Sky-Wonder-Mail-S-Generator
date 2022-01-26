@@ -4,12 +4,12 @@ A lot of compatibility issues between versions here, but it can work!
 
 Requirements to use correctly:
 
-- Windows 10
+- Windows 10 (64-bit)
 - Desmume x86 (32-bit, not 64-bit!)
    (https://sourceforge.net/projects/desmume/files/desmume/0.9.11/desmume-0.9.11-win32.zip/download)
 - lua51.dll (32-bit)
    (found as "lua5.1.dll" in https://sourceforge.net/projects/luabinaries/files/5.1.5/Windows%20Libraries/Dynamic/lua-5.1.5_Win32_dll14_lib.zip/download)
-- clipboard.dll (this is a 32-bit library, hence all the trouble in compatibility)
+- clipboard.dll (this is a Windows 32-bit library, hence all the trouble in compatibility)
    (provided here, sourced from http://files.luaforge.net/releases/jaslatrix/clipboard/1.0.0/clipboard-1.0.0-Lua51.zip)
    
 Useful:
