@@ -2,6 +2,7 @@ Generators for Wonder Mail S passwords in Pokemon Mystery Dungeon: Explorers of 
 
 - Python (simple script, text output)
 - HTML/JavaScript (webpage)
+- Lua script for copy-pasting Wonder Mail S passwords into the game (Desmume x86 ROM)
 
 To use this generator:
 - Run one of the programs here to produce a password.
@@ -14,7 +15,6 @@ To use this generator:
 
 To be made soon:
 
-- a Lua script to copy-paste the password into DeSMuMe-emulated ROM)
 - a simple PyQt5 GUI app using the python generator
 
 Algorithm sourced from: [https://syphist.com/pmd/explorers/wondermail.html](https://syphist.com/pmd/explorers/wondermail.html)
