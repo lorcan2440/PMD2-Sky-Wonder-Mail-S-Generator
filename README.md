@@ -1,7 +1,7 @@
 Generators for Wonder Mail S passwords in Pokemon Mystery Dungeon: Explorers of Sky. Includes:
 
-- Python (simple script, password output suitable for copy-pasting)
 - HTML/JavaScript (webpage, password output suitable for copy-pasting)
+- Python (simple script, password output suitable for copy-pasting)
 - Lua script for copy-pasting Wonder Mail S passwords into the game (Desmume x86 ROM)
 
 To use this generator:
