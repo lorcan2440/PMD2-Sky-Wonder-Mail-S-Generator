@@ -4,7 +4,7 @@ This is a tool for quickly inputting Wonder Mail S passwords into the game. Some
 
 ### How to use
 
-- Copy a Wonder Mail S password (e.g. from the html-js generator output) to your clipboard (Ctrl + C)
+- Copy a Wonder Mail S password (e.g. from the WMS Generator output) to your clipboard (Ctrl + C)
 - Run this Lua script from Desmume
 - Go to the in-game screen where you enter a Wonder Mail S password
 - Press Ctrl + V while the password entry is empty and the cursor is in the first position (click anywhere on the screen after loading the script to ensure you are in the Desmume window)
