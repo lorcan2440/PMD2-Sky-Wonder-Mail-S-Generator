@@ -13,10 +13,6 @@ To use this generator:
 
 ![ReceivedWM.png](ReceivedWM.png)
 
-To be made soon:
-
-- a simple PyQt5 GUI app using the python generator
-
 Algorithm sourced from: [https://syphist.com/pmd/explorers/wondermail.html](https://syphist.com/pmd/explorers/wondermail.html)
 
 Original sources (all archived):
