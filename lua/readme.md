@@ -1,6 +1,6 @@
 ## Lua - copy-paste Wonder Mail S passwords into Desmume ROM
 
-Some compatibility issues between versions here, but it does work!
+This is a tool for quickly inputting Wonder Mail S passwords into the game. Some compatibility issues between versions here, but it does work!
 
 ### How to use
 
