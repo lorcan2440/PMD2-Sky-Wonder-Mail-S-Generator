@@ -4,6 +4,7 @@ A lot of compatibility issues between versions here, but it can work!
 
 Requirements to use correctly:
 
+- Windows 10
 - Desmume x86 (32-bit, not 64-bit!)
    (https://sourceforge.net/projects/desmume/files/desmume/0.9.11/desmume-0.9.11-win32.zip/download, also provided here)
 - lua51.dll (32-bit)
