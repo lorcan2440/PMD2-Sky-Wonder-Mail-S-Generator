@@ -1,6 +1,6 @@
 ## Lua - still being made
 
-A lot of compatibility issues between versions here, but it can work.
+A lot of compatibility issues between versions here, but it can work!
 
 Requirements to use correctly:
 
