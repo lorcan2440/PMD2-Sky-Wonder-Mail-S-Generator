@@ -10,7 +10,7 @@ To be made soon:
 
 Algorithm sourced from: [https://syphist.com/pmd/explorers/wondermail.html](https://syphist.com/pmd/explorers/wondermail.html)
 
-Original sources:
+Original sources (all archived):
 
 https://web.archive.org/web/20141009024914/http://www.upokecenter.com/content/pokemon-mystery-dungeon-2-in-depth-guides
 https://web.archive.org/web/20141010110725/http://www.upokecenter.com/games/dungeon2/guides/wondermail.php
