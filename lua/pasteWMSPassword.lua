@@ -39,7 +39,6 @@ while true do
         password = string.gsub(clipboardContent, '%s', '')  -- clean string
         for i = 0, #password do
             local char = password:sub(i,i)
-            print(char)
             -- trial and error to time the delays right - seems to work
             stylus.set{x=xPos[char], y=yPos[char], touch=true}
             emu.frameadvance()
