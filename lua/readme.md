@@ -38,3 +38,4 @@ This is a tool for quickly inputting Wonder Mail S passwords into the game. Some
 ### Notes:
 
 - This is not intended for TAS - it takes a few seconds to enter the code, which is limited by the touchscreen's sensitivity to fast taps. In theory the password could be entered instantly if the script directly edited the memory, but this is too complicated for me and isn't how this script works.
+- Running this script outside of the password entry screen could have unintended consequences.
