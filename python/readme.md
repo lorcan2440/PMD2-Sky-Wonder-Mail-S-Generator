@@ -6,4 +6,4 @@ If using the European version, edit the `IS_EUROPEAN = True` in the file (or jus
 
 ### Notes:
 
-- This Python generator may give different codes to the html/js version. I haven't figured out why, but the passwords still work.
+- This Python generator may give different codes to the html/js version, even when using a fixed seed. I haven't figured out why, but the passwords still work.
