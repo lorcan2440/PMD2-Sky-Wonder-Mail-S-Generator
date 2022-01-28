@@ -1,4 +1,4 @@
-Generators for Wonder Mail S passwords in Pokemon Mystery Dungeon: Explorers of Sky. Includes:
+Generators for Wonder Mail S passwords in Pokemon Mystery Dungeon: Explorers of Sky, effectively allowing you to get any item or recruit any Pokemon that you want, as many times as you want! Includes:
 
 - [HTML/JavaScript](https://github.com/lorcan2440/PMD-2-Wonder-Mail-Generator/tree/main/html-js) (webpage, password output suitable for copy-pasting)
 - [Python](https://github.com/lorcan2440/PMD-2-Wonder-Mail-Generator/tree/main/python) (simple script, password output suitable for copy-pasting)
