@@ -19,13 +19,13 @@ Generators for Wonder Mail S passwords in Pokemon Mystery Dungeon: Explorers of 
 
 ### Sources:
 
-Algorithm sourced from: [https://syphist.com/pmd/explorers/wondermail.html](https://syphist.com/pmd/explorers/wondermail.html)
+Algorithm sourced from [here](https://syphist.com/pmd/explorers/wondermail.html).
 
 - Original sources (all archived):
 
 https://web.archive.org/web/20141009024914/http://www.upokecenter.com/content/pokemon-mystery-dungeon-2-in-depth-guides
-https://web.archive.org/web/20141010110725/http://www.upokecenter.com/games/dungeon2/guides/wondermail.php
+https://web.archive.org/web/20140806123203mp_/http://www.upokecenter.com/content/pokemon-mystery-dungeon-passwords
 
 - For PMD2 Explorers of Time Darkness, the original generator is here:
-
-https://web.archive.org/web/20140806123203mp_/http://www.upokecenter.com/content/pokemon-mystery-dungeon-passwords
+- 
+https://web.archive.org/web/20141010110725/http://www.upokecenter.com/games/dungeon2/guides/wondermail.php
