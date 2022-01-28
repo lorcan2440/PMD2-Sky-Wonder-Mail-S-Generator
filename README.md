@@ -23,9 +23,9 @@ Algorithm sourced from [here](https://syphist.com/pmd/explorers/wondermail.html)
 
 - Original sources (all archived):
 
-https://web.archive.org/web/20141009024914/http://www.upokecenter.com/content/pokemon-mystery-dungeon-2-in-depth-guides
-https://web.archive.org/web/20140806123203mp_/http://www.upokecenter.com/content/pokemon-mystery-dungeon-passwords
+[Passwords explained](https://web.archive.org/web/20140806123203mp_/http://www.upokecenter.com/content/pokemon-mystery-dungeon-passwords)
 
-- For PMD2 Explorers of Time Darkness, the original generator is here:
-- 
-https://web.archive.org/web/20141010110725/http://www.upokecenter.com/games/dungeon2/guides/wondermail.php
+- For PMD2 Explorers of Time Darkness, the original sources are here.
+
+[Wonder Mail](https://web.archive.org/web/20141010110725/http://www.upokecenter.com/games/dungeon2/guides/wondermail.php)
+[A-OK from SOS](https://web.archive.org/web/20140928152129/http://www.upokecenter.com/content/pokemon-mystery-dungeon-2-mail-converter)
