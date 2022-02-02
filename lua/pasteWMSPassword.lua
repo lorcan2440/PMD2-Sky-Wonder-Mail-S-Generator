@@ -24,12 +24,6 @@ local yPos = {["C"] = 129, ["F"] = 129, ["H"] = 129, ["J"] = 129, ["K"] = 129, [
     ["5"] = 155, ["6"] = 155, ["7"] = 155, ["8"] = 155, ["9"] = 155, ["@"] = 155, ["&"] = 155,
     ["-"] = 169, ["#"] = 169, ["%"] = 169, ["+"] = 169, ["="] = 169}
 
-function sleep (a) 
-    local sec = tonumber(os.clock() + a); 
-    while (os.clock() < sec) do 
-    end 
-end
-
 -- get code copied to clipboard
 while true do
     local key = input.get()
