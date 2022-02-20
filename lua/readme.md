@@ -14,7 +14,7 @@ This is a tool for quickly inputting Wonder Mail S passwords into the game. Some
 
 ### Requirements to work correctly:
 
-- Windows 10 (64-bit)
+- Windows
 - Desmume x86 (32-bit, not 64-bit!)
    (https://sourceforge.net/projects/desmume/files/desmume/0.9.11/desmume-0.9.11-win32.zip/download)
 - `lua51.dll` (32-bit)
