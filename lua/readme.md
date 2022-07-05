@@ -21,7 +21,7 @@ This is a tool for quickly inputting Wonder Mail S passwords into the game. Some
    (needs to be renamed - found as "lua5.1.dll" in https://sourceforge.net/projects/luabinaries/files/5.1.5/Windows%20Libraries/Dynamic/lua-5.1.5_Win32_dll14_lib.zip/download)
 - `clipboard.dll` (this is a Windows 32-bit library, hence all the trouble in compatibility)
    (provided here, sourced from http://files.luaforge.net/releases/jaslatrix/clipboard/1.0.0/clipboard-1.0.0-Lua51.zip)
-- In Desmume, make sure frame skip is zero (never)
+- In Desmume, make sure frames are limited and frame skip is zero: Config > Frame Skip > check Limit Framerate and 0 (never skip)
 
 ### Errors:
 
